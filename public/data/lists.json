@@ -1,0 +1,17 @@
+[
+  {
+    "id": 0,
+    "name": "Math",
+    "description": "Task to do in math subject"
+  },
+  {
+    "id": 1,
+    "name": "English",
+    "description": "Task to do in english subject"
+  },
+  {
+    "id": 2,
+    "name": "Programming",
+    "description": "Task to do in programming subject"
+  }
+]
