@@ -4,6 +4,7 @@ import Task from "./components/Task";
 import Button from "./components/Button";
 import Alert from "./components/Alert";
 import Search from "./components/Search";
+import "./css/App.css";
 
 function App() {
   // -store all the lists
