@@ -1,0 +1,56 @@
+[
+  {
+    "id": 0,
+    "list_id":  0,
+    "name": "to do calculas homework",
+    "completed" : false
+  },
+  {
+    "id": 1,
+    "list_id":  0,
+    "name": "to do geometry homework",    
+    "completed" : false
+  },
+  {
+    "id": 2,
+    "list_id":  1,
+    "name": "to do grammar homework",    
+    "completed" : false
+  },
+  {
+    "id": 3,
+    "list_id":  1,
+    "name": "to do essay homework",    
+    "completed" : false
+  },
+  {
+    "id": 4,
+    "list_id":  1,
+    "name": "to do vocabulary homework",    
+    "completed" : false
+  },
+  {
+    "id": 5,
+    "list_id":  2,
+    "name": "to do python homework",    
+    "completed" : false
+  },
+  {
+    "id": 6,
+    "list_id":  2,
+    "name": "to do c++ homework",    
+    "completed" : false
+  },
+  {
+    "id": 7,
+    "list_id":  2,
+    "name": "to do java homework",    
+    "completed" : false
+  },
+  {
+    "id": 8,
+    "list_id":  2,
+    "name": "to do c# homework",    
+    "completed" : false
+  }
+]
